@@ -1,0 +1,9 @@
+[submodule "lv_drivers"]
+	path = lv_drivers
+	url = https://github.com/lvgl/lv_drivers.git
+[submodule "lvgl"]
+	path = lvgl
+	url = https://github.com/lvgl/lvgl.git
+[submodule "imx-voiceui"]
+	path = imx-voiceui
+	url = https://github.com/nxp-imx/imx-voiceui.git

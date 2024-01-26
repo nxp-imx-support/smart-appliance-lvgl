@@ -1,0 +1,28 @@
+NXP Software Content Register
+
+Release - 0.1.0
+Oct 2024
+
+Outgoing License: LA_OPT_Online Code Hosting NXP_Software_License - v1.2 October 2023
+License File:     LICENSE.txt
+
+--------------------------------------------
+
+Package:                    smart_appliance
+Version:                    0.1.0
+Date:                       Oct 2024
+Outgoing License:           LA_OPT_Online Code Hosting NXP_Software_License - v1.2 October 2023
+License File:               LICENSE.txt
+Package Category:           Demo application
+Type of content:            Source code
+Description and comments:   Smart appliance demo projects that can run on i.MX93qsb
+Release Location:           https://github.com/nxp-imx-support/smart-appliance-lvgl
+Origin:                     NXP Gui-Guider (NXP Proprietary) https://www.nxp.com/design/design-center/software/development-software/gui-guider:GUI-GUIDER
+                            LVGL Kft (MIT License)
+                            Lv_drivers (MIT License)
+                            DRM (MIT License)
+                            Matter (Apache-2.0)
+                            NXP (BSD-3-Clause)
+                            imx-voiceui (NXP Proprietary)
+                            ML (Apache-2.0)
+                            src/generated/guider_fonts (SIL Open Font License)
